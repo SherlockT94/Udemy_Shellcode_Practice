@@ -18,6 +18,7 @@ There are something I do not know before:
 7. useradd config file -> /etc/login.def.
 8. `man bash` and `help test` will help a lot.
 9. Pattern Matching
+
 |Pattern|Description|
 |---|---|
 |\*	|Match zero or more characters|
